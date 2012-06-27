@@ -1,0 +1,5 @@
+name: StartingItems
+version: 1.0
+main: com.imjake9.startingitems.StartingItems
+author: imjake9
+description: Gives players items upon login or respawn.
